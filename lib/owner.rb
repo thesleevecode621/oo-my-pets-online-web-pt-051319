@@ -34,6 +34,6 @@ def buy_fish(name)
   end
 
 def walk_dogs
-  
+  pets[:dogs].each do 
 end
 end
