@@ -39,5 +39,5 @@ def walk_dogs
    end
    
  end
- def 
+ def play_with_cats
 end
